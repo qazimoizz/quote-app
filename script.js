@@ -12,5 +12,6 @@ async function getData(url) {
 console.log("done");
 console.log("done");
 console.log("done");
+console.log("done");
 
 // getData(apiUrl)
