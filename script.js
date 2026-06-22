@@ -9,20 +9,5 @@ async function getData(url) {
     author.innerText = data.author
 
 }
-console.log("done");
-console.log("done");
-console.log("done");
-console.log("done");
-console.log("done");
-console.log("done");
-console.log("done");
-console.log("done");
-console.log("done");
-console.log("done");
-console.log("done");
-console.log("done");
-console.log("done");
-console.log("done");
-console.log("done");
 
 // getData(apiUrl)
