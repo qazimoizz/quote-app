@@ -11,6 +11,7 @@ async function getData(url) {
 }
 
 // getData(apiUrl)
+// getData(apiUrl)
 
 console.log("hello world");
 console.log("hello world");
